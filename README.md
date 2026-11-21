@@ -2,7 +2,7 @@
 
 Stream approved local builds and navigate compiler diagnostics tied to their source and run.
 
-This is an optional [Denote](https://github.com/mbianchidev/denote) plugin. Its
+This is an optional [Denote](https://github.com/denote-io/denote) plugin. Its
 user guide is [guide.md](guide.md); Denote shows the same guide in
 **Settings → Plugins**.
 
